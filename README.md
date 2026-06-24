@@ -99,16 +99,3 @@ Using React hooks (useState) for:
 - View toggle (grid/list)
 - Event save/register states
 
-## Future Enhancements
-
-- Backend API integration
-- User authentication
-- Event creation dashboard
-- Real event data from database
-- Advanced analytics
-- Payment integration
-- Email notifications
-
-## License
-
-© 2025 EventPulse. All rights reserved.
